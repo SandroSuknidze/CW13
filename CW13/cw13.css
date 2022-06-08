@@ -1,0 +1,86 @@
+* {
+    padding: 0;
+    margin: 0; 
+}
+
+.upper-bar {
+    border: 1px solid gray;
+    background-color: gray;
+}
+
+.fa {
+    font-size: 30px;
+    padding: 10px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}  
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-google {
+    background: red;
+    color: white;
+}
+
+.login {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 1860px;
+}
+
+.sign-up {
+    color: orange;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.navbar {
+    border: 1px solid black;
+    margin-top: 10px;
+    padding: 10px;
+    background-color: black;
+}
+
+li {
+    display: inline;
+    float: left;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    margin-right: 30px;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+}
+
+
+
+
+
+
+
+
